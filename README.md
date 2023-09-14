@@ -1,5 +1,7 @@
 [![](https://github.com/scijava/incubator/actions/workflows/build-main.yml/badge.svg)](https://github.com/scijava/incubator/actions/workflows/build-main.yml)
 
+Boo
+
 # SciJava Incubator: A staging ground for fledgling SciJava projects
 
 This repository is a place for complex but immature codebases to rapidly
